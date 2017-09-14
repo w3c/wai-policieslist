@@ -1,2 +1,2 @@
 # wai-policieslist
-Updating Policies Relating to Web Accessibility http://www.w3.org/WAI/Policy/
+This repository has been superseded by [w3c/wai-policies-prototype](http://github.com/w3c/wai-policies-prototype).
